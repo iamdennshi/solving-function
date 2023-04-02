@@ -7,7 +7,7 @@
 The project uses [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0). Follow the steps below to run it locally. 
 - Clone the project using:
 ```bash
-  git clone https://github.com/iamdennshi/multi-step-form.git
+  git clone https://github.com/iamdennshi/solving-function.git
 ```
 - Go to the project directory and run web server:
 ```bash
