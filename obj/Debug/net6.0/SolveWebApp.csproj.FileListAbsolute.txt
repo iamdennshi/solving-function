@@ -1,0 +1,93 @@
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.staticwebassets.runtime.json
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.exe
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.deps.json
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.runtimeconfig.json
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.dll
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.pdb
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.csproj.AssemblyReference.cache
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.AssemblyInfoInputs.cache
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.AssemblyInfo.cs
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.csproj.CoreCompileInputs.cache
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.RazorAssemblyInfo.cache
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.RazorAssemblyInfo.cs
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets\msbuild.SolveWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.SolveWebApp.props
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SolveWebApp.props
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SolveWebApp.props
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\scopedcss\bundle\SolveWebApp.styles.css
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\scopedcss\projectbundle\SolveWebApp.bundle.scp.css
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.dll
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\refint\SolveWebApp.dll
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.pdb
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.genruntimeconfig.cache
+C:\Users\den\Desktop\SolveWebApp\SolveWebApp\obj\Debug\net6.0\ref\SolveWebApp.dll
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.staticwebassets.runtime.json
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.exe
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.deps.json
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.runtimeconfig.json
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.dll
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\bin\Debug\net6.0\SolveWebApp.pdb
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.csproj.AssemblyReference.cache
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.AssemblyInfoInputs.cache
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.AssemblyInfo.cs
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.csproj.CoreCompileInputs.cache
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.RazorAssemblyInfo.cache
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.RazorAssemblyInfo.cs
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets\msbuild.SolveWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.SolveWebApp.props
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SolveWebApp.props
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SolveWebApp.props
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\scopedcss\bundle\SolveWebApp.styles.css
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\scopedcss\projectbundle\SolveWebApp.bundle.scp.css
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.dll
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\refint\SolveWebApp.dll
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.pdb
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\SolveWebApp.genruntimeconfig.cache
+C:\Users\den\Desktop\3. IDE\SolveWebApp\SolveWebApp\obj\Debug\net6.0\ref\SolveWebApp.dll
+C:\Users\den\Desktop\razor-pages\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\den\Desktop\razor-pages\bin\Debug\net6.0\appsettings.json
+C:\Users\den\Desktop\razor-pages\bin\Debug\net6.0\SolveWebApp.staticwebassets.runtime.json
+C:\Users\den\Desktop\razor-pages\bin\Debug\net6.0\SolveWebApp.exe
+C:\Users\den\Desktop\razor-pages\bin\Debug\net6.0\SolveWebApp.deps.json
+C:\Users\den\Desktop\razor-pages\bin\Debug\net6.0\SolveWebApp.runtimeconfig.json
+C:\Users\den\Desktop\razor-pages\bin\Debug\net6.0\SolveWebApp.dll
+C:\Users\den\Desktop\razor-pages\bin\Debug\net6.0\SolveWebApp.pdb
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.csproj.AssemblyReference.cache
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.AssemblyInfoInputs.cache
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.AssemblyInfo.cs
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.csproj.CoreCompileInputs.cache
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.RazorAssemblyInfo.cache
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.RazorAssemblyInfo.cs
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\staticwebassets\msbuild.SolveWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\staticwebassets\msbuild.build.SolveWebApp.props
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SolveWebApp.props
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SolveWebApp.props
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\scopedcss\bundle\SolveWebApp.styles.css
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\scopedcss\projectbundle\SolveWebApp.bundle.scp.css
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.dll
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\refint\SolveWebApp.dll
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.pdb
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\SolveWebApp.genruntimeconfig.cache
+C:\Users\den\Desktop\razor-pages\obj\Debug\net6.0\ref\SolveWebApp.dll

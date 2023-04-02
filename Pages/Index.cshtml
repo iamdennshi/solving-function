@@ -1,0 +1,98 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Вычисление значений функции";
+    string showFuntionTable = Model.data.x != null ? "col-sm-12 col-md-6" : "col-12";
+    string showImg = Model.data.x != null ? "img-thumbnail" : "img-thumbnail w-100";
+    string showTitle = Model.data.x != null ? "form-label text-center" : "form-label";
+
+    double minF = Model.data.x != null ? Model.data.y.Min() : double.NaN;
+    double maxF = Model.data.x != null ? Model.data.y.Max() : double.NaN;
+}
+
+<div class="container">
+    <form method="post" class="row g-3">
+        <div class="@showFuntionTable">
+            <div class="mb-3">
+                <div class="@showTitle">Функция</div>
+                <img class="@showImg" src="https://user-images.githubusercontent.com/89966869/228887562-0dba9203-9acf-4b36-95a4-d5b446731ca5.png"/>
+            </div>
+            <div class="row g-3">
+                <div class="col">
+                     <div class="mb-3">
+                        <label asp-for="data.xn" class="form-label">Введите значение <i>Xn</i></label>
+                        <input asp-for="data.xn" type="number" step="0.1" class="form-control" required/>
+                    </div>
+                </div>
+                <div class="col">
+                    <label asp-for="data.xk" class="form-label">Введите значение <i>Xk</i></label>
+                    <input asp-for="data.xk" type="number" step="0.1" class="form-control" required>
+                </div>
+            </div>
+            <div class="row g-3">
+                <div class="col-md-12 col-lg-6">
+                    <label asp-for="data.xh" class="form-label">Введите значение <i>Xh</i> (шаг)</label>
+                    <input asp-for="data.xh" type="number" step="0.1" min="0.1" class="form-control" required>
+                </div>
+                <div class="col-md-12 col-lg-6">
+                    <label asp-for="data.a" class="form-label">Введите значение <i>a</i></label>
+                    <input asp-for="data.a" type="number" step="0.1" min="0.1" class="form-control" required">
+                </div>
+            </div>
+        </div>
+        @if (Model.data.x != null)
+        {
+            <div class="col-sm-12 col-md-6">
+                <div class="form-label text-center">Значения функции</div>
+                <table class="table m-0">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">X</th>
+                            <th scope="col">Y</th>
+                        </tr>
+                    </thead>
+                </table>
+                <div style="max-height:60vh; overflow:auto;">
+                    <table class="table table-striped table-borderless">
+                        <tbody class="table-group-divider">
+                            @{
+                                if (Model.data.x != null)
+                                {
+                                    for (int i = 0; i < Model.data.x.Length; i++)
+                                    {
+                                        string drawRowToColor = "";
+                                        if (Model.data.y[i] == minF)
+                                        {
+                                            drawRowToColor = "table-danger";
+                                        }
+                                        else if (Model.data.y[i] == maxF)
+                                        {
+                                            drawRowToColor = "table-success";
+                                        }
+                                        <tr class="@drawRowToColor">
+                                            <th scope="row">@(i + 1)</th>
+                                            <td scope="col">@Model.data.x[i]</td>
+                                            <td scope="col">@Model.data.y[i]</td>
+                                        </tr>
+                                    }
+                                }
+                            }
+                          </tbody>
+                    </table>
+                </div>
+                <div class="row g-3">
+                    <div class="col-md-12 col-lg-6">
+                            <label for="exampleFormControlInput5" class="form-label">Мин. значение функции</label>
+                            <input value=@minF.ToString().Replace(',', '.') type="number" step="any" class="form-control" id="exampleFormControlInput5" disabled>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <label for="exampleFormControlInput6" class="form-label" >Макс. значение функции</label>
+                        <input value=@maxF.ToString().Replace(',', '.') type="number" step="any" class="form-control" id="exampleFormControlInput" disabled>
+                    </div>
+                </div>
+            </div>
+        }
+        <button type="submit" class="btn btn-primary">ВЫЧИСЛИТЬ</button>
+    </form>
+</div>
