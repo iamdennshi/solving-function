@@ -3,7 +3,7 @@
   <img width="600px" src="https://user-images.githubusercontent.com/89966869/229350030-647902a8-1e56-40a6-accd-3ebf2c1e6a5f.gif">
 </div>
 
-## ⚙️ Getting Started
+## Getting Started
 The project uses [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0). Follow the steps below to run it locally. 
 - Clone the project using:
 ```bash
